@@ -15,5 +15,4 @@
 * [Git and Hub](git-hub/README.md)  
 	* [what you'll need](git-hub/gitAndHub.md)  
 * [Final Project](final-project/README.md)
-* [revealing](ref://index.html)
 
