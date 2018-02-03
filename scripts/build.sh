@@ -3,7 +3,7 @@ git add .
 git commit -m 'building'
 git checkout master
 # enter gitbook source
-cd src
+cd docs_src
 # build new gitbook
 gitbook build
 # return to parent directory

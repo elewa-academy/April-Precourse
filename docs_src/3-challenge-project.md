@@ -1,6 +1,5 @@
-Welcome to the Elewa precourse material
+4-challenge-project.md
 
-you can follow the precourse directly from the repo [here](./docs_src/README.md), or as a gitbook [here](elewa-academy.github.io/precourse)
 
 ___
 ___
