@@ -11,11 +11,11 @@ Your portfolios are also going to be your first introductions to each other. Kee
 
 Below are some resources and recommended steps for building your portfolio:
 
-1. [Learn some frontend basics](../required-project-resources/0-front-end-basics.md)
-2. [Familiarize yourself with your devtools](../required-project-resources/1-dev-environment.md)
-3. [Learn git and GitHub basics](../required-project-resources/2-git-and-hub.md)
-4. [Build your portfolio](../required-project-resources/3-gh-portfolio.md)
-5. [Share your portfolio on the precourse wiki](../required-project-resources/4-editing-github-wikis.md)
+1. [Learn some frontend basics](https://github.com/jankeLearning/apco-precourse/blob/master/required-project-resources/0-front-end-basics.md)
+2. [Familiarize yourself with your devtools](https://github.com/jankeLearning/apco-precourse/blob/master/required-project-resources/1-dev-environment.md)
+3. [Learn git and GitHub basics](https://github.com/jankeLearning/apco-precourse/blob/master/required-project-resources/2-git-and-hub.md)
+4. [Build your portfolio](https://github.com/jankeLearning/apco-precourse/blob/master/required-project-resources/3-gh-portfolio.md)
+5. [Share your portfolio on the precourse wiki](https://github.com/jankeLearning/apco-precourse/blob/master/required-project-resources/4-editing-github-wikis.md)
 
 
 If you get stuck, don't forget to ask each other for help on Slack!
