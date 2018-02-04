@@ -1,11 +1,11 @@
 # Summary
 
 * [Welcome](README.md)   
-* [Becoming a Developer](0-being-a-developer.md)   
+* [Being a Developer](0-being-a-developer.md)   
 * [Installations](1-installations.md)  
 * [Required Project](2-required-project.md)  
-* [Challenge Project](3-challenge-project.md)
-* [Still not enough?](4-still-not-enough.md)
+<!-- * [Challenge Project](3-challenge-project.md) -->
+<!-- * [Still not enough?](4-still-not-enough.md) -->
 * [Completed Portfolios](https://github.com/elewa-academy/April-Precourse/wiki/)
 
 

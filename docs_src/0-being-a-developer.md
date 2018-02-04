@@ -1,6 +1,6 @@
 ## Being a Developer
 
-Before you dive into the hard stuff, it's worth taking a moment to get your head in the right place.  Some of the resources below will help you set expectations for yourself in terms of how much work you'll have to do and what kind of progress you can expect to make in your time with Elewa.  Some of the resources are about what developers actually do in their work.  The rest of the resources will give you an overview of the technologies you will be learning.
+Before you dive into the hard stuff, it's worth taking a moment to get your head in the right place.  Some of the resources below will help you set expectations for how much you'll need to work and what kind of progress you can expect to make in your time with Elewa.  Some of these resources are about what developers actually do in their work.  The rest of the resources will give you an overview of the technologies you will be learning.
 
 
 Absolute must-reads:  

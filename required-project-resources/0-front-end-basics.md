@@ -1,6 +1,18 @@
-free code camp is good, it's got a great community and great exercises.  But it's a little sparse on explaining things.  for that there is their youtube channel and this recommended resource: (wait for from george)
+## Front End Basics
 
-they have you build your front-end projects in codepen.  here's some extra resources on reveal. after you've finished them, the next step in the required project is to move your code to your computer so you can push it to github
+The foundational skills for web-development are HTML and CSS.  You will be able to build your first projects (and your portfolio) without any JavaScript. We think it's a good idea for you to first familiarize yourselves with HTML/CSS before moving on to JavaScript.  This will make it much easier when it comes time to learn JavaScript as you won't be trying to learn two things at once.  Believe us, this will make your life easier.
+
+To cover the basics of HTML/CSS we recommend following [FreeCodeCamp](https://www.freecodecamp.org/challenges/get-set-for-our-front-end-development-projects) as far as the __Basic Front End Projects__.  In this series of exercises and projects you will learn some HTML, CSS, and Bootstrap as well as how to use [CodePen](https://codepen.io/hello/) to host your projects.  One of the projects is a portfolio web page that you will be able to move over to GitHub to complete your required project.
+
+When you reach the Basic Projects, be sure to do them well.  They will be the first projects in your portfolio!
+
+FreeCodeCamp has a good series of exercises, but it has very few explanations of how things work.  To support you through FreeCodeCamp, we recommend these resources:
+* [Marksheet.io](https://marksheet.io) has a very clean and friendly introduction to using HTML and CSS.
+* [W3 Schools](https://www.w3schools.com) is less friendly than Marksheet, but has much more information.  You will be using W3 Schools to look up HTML and CSS details for the rest of your programming life.
+* FreeCodeCamp has a [forum](https://forum.freecodecamp.org), a [chat room](https://gitter.im/FreeCodeCamp/CodeReview), and a [youtube channel](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) where you can find support from people working on the same problems as you.
+
+
+And as always, don't forget to ask each other for help on Slack!
 
 ___
 ___

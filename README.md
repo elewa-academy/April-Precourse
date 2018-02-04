@@ -1,9 +1,10 @@
-Welcome to the Elewa precourse material
+Welcome to the repository for the Elewa Academy precourse material.
 
-you can follow the precourse directly from the repo [here](./docs_src/README.md), or as a gitbook [here](elewa-academy.github.io/precourse)
+The required project for this precourse is to get a start on your GitHub portfolio that you will be building while in our course.  When you are finished it will look [something like this](https://elewa-student.github.io).
+
+you can follow the precourse directly from the repo [here](./docs_src/), or as a gitbook [here](elewa-academy.github.io/april-precourse)
 
 
-// favicon setup sometime
 
 
 ___

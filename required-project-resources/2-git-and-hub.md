@@ -5,6 +5,7 @@
 * [What is Git](#what-is-git)
 * [what is GitHub](#what-is-github)
 * [How it all fits](#how-it-all-fits)
+* [Git clients](#git-clients)
 * [Learning Outcomes](#learning-outcomes)
 * [SSH Keys](#ssh-keys)
 * [Study Resources](#study-resources)
@@ -67,6 +68,17 @@ And finally, you will set up a project with Git and this will serve as a templat
 
 [TOP](#index)
 ___
+## Git Clients
+
+Git can be tricky to use directly from terminal when you are first learning.  Fortunately the way git works in the background means that it is very easy to visualize what's happening with a desktop application.  These applications are called Git Clients.  There are many out there, so we will just mention 3 here:
+
+* [Visual Studio Code](https://www.youtube.com/watch?v=VOwyH2-VCVY&t=2s).  Yes indeed, VSC has built-in tools to help you with git.  You can clone, branch, commit and more.  This may be the best option for starting out, the less you have to switch between applications the easier it will be to learn.
+* [GitHub Desktop](https://desktop.github.com).  Created by GitHub, this client is simple and easy to use.  It's not as powerful as others but it's more than enough to complete the precourse.
+* [GitKraken](https://www.gitkraken.com).  This is the full-powered developer's git tool.  Keep it in mind for later.
+
+
+[TOP](#index)
+___
 
 ## Learning Outcomes:
 By the end of this step in the precourse you should be able to:
@@ -85,6 +97,7 @@ ___
 
 ## Study Resources:
 * [Git and Github in plain English](https://blog.red-badger.com/blog/2016/11/29/gitgithub-in-plain-english).  Out standing overview.
+* Roger Dudler's [handbook to using git](http://rogerdudler.github.io/git-guide/).
 * [A good introduction video](https://www.youtube.com/watch?v=r63f51ce84A), if you're into videos. 
 * [Traversy Media crash course](https://www.youtube.com/watch?v=SWYqp7iY_Tc), another video intro.
 * [The best place to practice git](http://learngitbranching.js.org/), great visualizations.
