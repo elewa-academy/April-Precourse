@@ -1,4 +1,6 @@
-dev-environment.md
+command line basics - cd, ..., enough to push
+running html from editor/browser
+git basics
 
 ___
 ___

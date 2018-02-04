@@ -85,7 +85,8 @@ ___
 
 ## Study Resources:
 * [Git and Github in plain English](https://blog.red-badger.com/blog/2016/11/29/gitgithub-in-plain-english).  Out standing overview.
-* [A good introduction videos](https://www.youtube.com/watch?v=r63f51ce84A), if you're into videos. 
+* [A good introduction video](https://www.youtube.com/watch?v=r63f51ce84A), if you're into videos. 
+* [Traversy Media crash course](https://www.youtube.com/watch?v=SWYqp7iY_Tc), another video intro.
 * [The best place to practice git](http://learngitbranching.js.org/), great visualizations.
 * [Git CLI game](https://www.git-game.com).  A git tutorial run from your terminal.
 * If you REALLY want to know [how git works](https://www.youtube.com/watch?v=1ffBJ4sVUb4&list=TLj1nt5nzukA8), watch this video.
