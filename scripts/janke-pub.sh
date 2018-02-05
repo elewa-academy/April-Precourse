@@ -3,7 +3,7 @@ git add .
 git commit -m 'building for publish'
 git checkout master
 # pull other changes
-git pull elewa master
+git pull janke master
 # enter gitbook source
 cd docs_src
 # build new gitbook
@@ -19,7 +19,7 @@ cd ..
 git add .
 git commit -m 'publishing'
 # publish changes
-git push elewa master
+git push janke master
 
 # to execute this file run this command in terminal:
 # chmod a+x ./publish.sh
