@@ -15,7 +15,8 @@ Other good reads:
    * [Top 8 Developer Habits](https://www.youtube.com/watch?v=DwQ7psiU23I&index=1&list=PL0zVEGEvSaeGY3RMjGo4CgMPN42_U9Glu) - Video series by Mr. Funfunfuncion.  He'll become your good friend. 
    * Software development [isn't about the code](http://elewa.education/2018/01/20/solution-design/).
    * Marksheet.io's [introduction to the internet](https://marksheet.io/introduction.html).
-   * Freecodecamp's article on [comparing yourself to others](https://medium.freecodecamp.org/a-better-way-to-compare-yourself-43cf37616570).
+   * Freecodecamp's article on [comparing yourself to others](https://medium.freecodecamp.org/a-better-way-to-compare-yourself-43cf37616570).  
+   * Is programming [like learning a language](http://elewa.education/2018/01/22/thinking-computer-thoughts/)?
 
 Highly recommended purchase: 
    * This last resource is a physical book (I know, I'm sorry).  Of all the books, articles, and video's I've seen, this one is probably the best single resource for learning what being a developer is actually about.  It's worth the $20 [on Amazon](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073).
