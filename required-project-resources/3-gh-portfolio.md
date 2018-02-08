@@ -19,6 +19,8 @@ Turn your GitHub account into a portfolio like the examples above.  It should:
 * Have a link to both a gh-pages demo, and the source code for each project  
 * Be shared [on the class wiki](https://github.com/elewa-academy/April-Precourse/wiki) so everyone can get to know you! ([click here](./4-editing-github-wikis.md) for some guidance)
 
+Have fun with this!  If you already have some experience programming and want to try out a new front-end library, go for it!  Impress yourself.
+
 
 ___
 ### Study Resources

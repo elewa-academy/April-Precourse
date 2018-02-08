@@ -19,7 +19,7 @@ Below are some resources and recommended steps for building your portfolio:
 
 
 If you get stuck, don't forget to ask each other for help on Slack!
-If you finish early and want a challenge, send us an email and we can hook you up.
+If you finish early and want a challenge, Slack us and we can hook you up.
 
 Happy Learning!
 
