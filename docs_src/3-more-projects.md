@@ -2,7 +2,7 @@
 
 Finishing your portfolio doens't mean you're done preparing! The more prepared you are, the more you and your classmates will learn in course.   
 
-In this section of the precourse you will become familiar with using pure JavaScript along with HTML & CSS to build simple projects in the browser.  There are many tools out there to make building interactive sites easier and flashier, but you can learn those later.  We have found that students who make the most progress in the long-term begin by [focusing on the foundamentals](https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks) before moving on to time-saving tools.  
+In this section of the precourse you will become familiar with using pure JavaScript along with HTML & CSS to build simple projects in the browser.  There are many tools out there to make building interactive sites easier and flashier, but you can learn those later.  We have found that students who make the [most progress in the long-term](https://medium.freecodecamp.org/is-vanilla-javascript-worth-learning-absolutely-c2c67140ac34) begin by [focusing on the foundamentals](https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks) before moving on to time-saving tools.  
 
 To teach these principles we recommend following [The JavaScript 30](https://javascript30.com) by Wes Bos. This series of 30 short video tutorials will guide you through building simple, single-page applications using nothing but basic JS/HTML/CSS.  His projects will help you learn how to write clean code, structure single-page applications, and use a wide variety of neat JS tools and tricks.
 
