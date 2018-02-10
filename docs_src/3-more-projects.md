@@ -8,7 +8,7 @@ To teach these principles we recommend following [The JavaScript 30](https://jav
 
 If you already have some experience with JavaScript DOM manipulation, you can dive right into [The JavaScript 30 video series](https://javascript30.com).  Otherwise you will want to take some time to study with the resources linked at the bottom of this document.
 
-Don't forget to add these projects to your portfolio!  For each project you finish, don't forget to:
+Don't forget to add these projects to your portfolio!  For each project you finish:
 1. Write a README to [explain what you learned from this project](https://www.makeuseof.com/tag/become-better-coder-keeping-programming-journal/).
 2. Push the code to a new GH repository.
 3. Make a live demo on the "gh-pages" branch.
