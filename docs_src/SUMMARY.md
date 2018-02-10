@@ -3,7 +3,8 @@
 * [Welcome](README.md)   
 * [Being a Developer](0-being-a-developer.md)   
 * [Installations](1-installations.md)  
-* [Required Project](2-required-project.md)  
+* [Required Project](2-required-project.md)   
+* [More Projects](3-more-projects.md)   
 * [Completed Portfolios](https://github.com/elewa-academy/April-Precourse/wiki/)
 
 
