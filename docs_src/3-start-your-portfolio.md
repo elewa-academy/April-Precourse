@@ -1,4 +1,4 @@
-## Required Project
+## Start Your Portfolio
 
 The portfolio is the modern diploma.  During your time with us you will be continually building and perfecting your portfolio. By the end of your time with us your GitHub account will be a fully navigable portfolio site where employers and collaborators can come to see what you're capable of. 
 
