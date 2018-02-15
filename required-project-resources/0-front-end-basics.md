@@ -17,7 +17,7 @@ Self-Assessments:
 * [CSS Quiz](https://www.w3schools.com/css/css_quiz.asp)
 
 
-And as always, don't forget to ask each other for help on Slack!
+And as always, don't forget to ask each other for help on [Slack](https://join.slack.com/t/elewa-academy/shared_invite/enQtMjk4OTA3OTM1NjIwLTA2ZmQ0NDVhNjQxZWM2NjNhNmMyNmVhZGNhZmJmZTY1OWQ4Nzc0ZTkzZGE3NjdiYTYwYThlNzI3YTg2NGM5MGM)!
 
 ___
 ___

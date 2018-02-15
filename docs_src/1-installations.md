@@ -21,7 +21,7 @@ If you have a mac or Linux machine there is nothing to install.  If you have a w
   * [Yarn](https://yarnpkg.com/lang/en/docs/install/)
 
 
-If you're having trouble getting this set up don't hesitate to ask each other for help on Slack, or to send us an email.
+If you're having trouble getting this set up don't hesitate to ask each other for help on [Slack](https://join.slack.com/t/elewa-academy/shared_invite/enQtMjk4OTA3OTM1NjIwLTA2ZmQ0NDVhNjQxZWM2NjNhNmMyNmVhZGNhZmJmZTY1OWQ4Nzc0ZTkzZGE3NjdiYTYwYThlNzI3YTg2NGM5MGM), or to send us an email.
 
 
 ___

@@ -38,7 +38,7 @@ JS Self-Assessment:
 
 
 Study Support:
-* Slack!  Don't forget to ask each other for help.
+* [Slack](https://join.slack.com/t/elewa-academy/shared_invite/enQtMjk4OTA3OTM1NjIwLTA2ZmQ0NDVhNjQxZWM2NjNhNmMyNmVhZGNhZmJmZTY1OWQ4Nzc0ZTkzZGE3NjdiYTYwYThlNzI3YTg2NGM5MGM)!  Don't forget to ask each other for help.
 * And do let us know if we're missing any great resources.
 
 

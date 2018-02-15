@@ -18,8 +18,8 @@ Below are some resources and recommended steps for building your portfolio:
 5. [Share your portfolio on the precourse wiki](https://github.com/jankeLearning/apco-precourse/blob/master/required-project-resources/4-editing-github-wikis.md)
 
 
-If you get stuck, don't forget to ask each other for help on Slack!
-If you finish early and want a challenge, Slack us and we can hook you up.
+If you get stuck, don't forget to ask each other for help on [Slack](https://join.slack.com/t/elewa-academy/shared_invite/enQtMjk4OTA3OTM1NjIwLTA2ZmQ0NDVhNjQxZWM2NjNhNmMyNmVhZGNhZmJmZTY1OWQ4Nzc0ZTkzZGE3NjdiYTYwYThlNzI3YTg2NGM5MGM)!
+If you finish early and want a challenge, [Slack](https://join.slack.com/t/elewa-academy/shared_invite/enQtMjk4OTA3OTM1NjIwLTA2ZmQ0NDVhNjQxZWM2NjNhNmMyNmVhZGNhZmJmZTY1OWQ4Nzc0ZTkzZGE3NjdiYTYwYThlNzI3YTg2NGM5MGM) us and we can hook you up.
 
 Happy Learning!
 

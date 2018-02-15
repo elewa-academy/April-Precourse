@@ -31,7 +31,7 @@ JavaScript 30:
 * Super Learning: [try writing specs](https://github.com/elewa-academy/studying-with-specs/tree/master) for each of your solutions! (and including them on github)
 
 Study Support:
-* Slack!  Don't forget to ask each other for help.
+* [Slack](https://join.slack.com/t/elewa-academy/shared_invite/enQtMjk4OTA3OTM1NjIwLTA2ZmQ0NDVhNjQxZWM2NjNhNmMyNmVhZGNhZmJmZTY1OWQ4Nzc0ZTkzZGE3NjdiYTYwYThlNzI3YTg2NGM5MGM)!  Don't forget to ask each other for help.
 
 
 
