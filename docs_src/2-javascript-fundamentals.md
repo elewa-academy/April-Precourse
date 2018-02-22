@@ -25,11 +25,14 @@ JS Resources:
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going). General reference for JavaScript
 * [Javascript.info](https://javascript.info). General Reference for JavaScript, DOM
 
-JS Exercises:
+JS Tutorials:
 * [Codeacademy](https://www.codecademy.com/en/tracks/javascript). More guidance and approachable exercises.
 * [FreeCodeCamp](https://www.freecodecamp.org/map). More challenging exercises, but less guidance.  (Skip ahead to JavaScript Basics for now, you'll get a chance to cover HTML/CSS in the next step of the precourse.)
 * [Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming), very visual.  Their exercises all provide instant feedback with in-browser visuals.
-* [Coderbyte](https://coderbyte.com/).  A site full of challenging exercises and competitions.
+
+JS Challenges:
+* [Codewars](https://www.codewars.com).  A site full of challenging.
+* [Coderbyte](https://coderbyte.com/).  Another site with challenges, competitions, and larger development projects. 
 
 
 JS Self-Assessment:
@@ -39,13 +42,11 @@ JS Self-Assessment:
 
 Study Support:
 * [Slack](https://join.slack.com/t/elewa-academy/shared_invite/enQtMjk4OTA3OTM1NjIwLTA2ZmQ0NDVhNjQxZWM2NjNhNmMyNmVhZGNhZmJmZTY1OWQ4Nzc0ZTkzZGE3NjdiYTYwYThlNzI3YTg2NGM5MGM)!  Don't forget to ask each other for help.
+* [Appear.in](https://appear.in/elewa-academy)
 * And do let us know if we're missing any great resources.
 
 
-Other Resources (Student Curated List):
-* [Launch School's Command Line](https://launchschool.com/books/command_line). Resource for learning about the command line and the terminal.
-* [Launch School's Git and Github](https://launchschool.com/books/git/). Resource for learning about git and github.
-* [Jlord's Git-It](https://github.com/jlord/git-it-electron). This is a more interactive resource for learning Git.
+
 
 
 

@@ -13,7 +13,7 @@ While you're planning your study schedule, try to keep this simple rule in mind:
 It is important that you have a portfolio to work with, but don't spend too much time on it yet.  The basic portfolio you'll complete in FreeCodeCamp is enough - it's more important that you have solid JS fundamentals.  And don't worry about having a stylish portfolio just yet, one of our class projects will be rebuilding it with React components.
 
 
-Take this time before April to get to know each other [on the Elewa slack](https://join.slack.com/t/elewa-academy/shared_invite/enQtMjk4OTA3OTM1NjIwLTA2ZmQ0NDVhNjQxZWM2NjNhNmMyNmVhZGNhZmJmZTY1OWQ4Nzc0ZTkzZGE3NjdiYTYwYThlNzI3YTg2NGM5MGM).  There's a channel just for you called "april_2018".  Help each other with the projects, keep each other motivated, your classmates will be your greatest asset while in our class!
+Take this time before April to get to know each other [on the Elewa slack](https://join.slack.com/t/elewa-academy/shared_invite/enQtMjk4OTA3OTM1NjIwLTA2ZmQ0NDVhNjQxZWM2NjNhNmMyNmVhZGNhZmJmZTY1OWQ4Nzc0ZTkzZGE3NjdiYTYwYThlNzI3YTg2NGM5MGM).  There's a channel just for you called "april_2018".  You can also meet at our [appear.in](https://appear.in/elewa-academy) for video chats.  Help each other with the projects, keep each other motivated, your classmates will be your greatest asset while in our class!
 
 
 See you soon,
