@@ -42,7 +42,9 @@ Study Support:
 * And do let us know if we're missing any great resources.
 
 
-
+Other Resources (Student Curated List):
+* [Launch School's Command Line](https://launchschool.com/books/command_line). Resource for learning about the command line and the terminal.
+* [Launch School's Git and Github](https://launchschool.com/books/git/). Resource for learning about git and github.
 
 
 
