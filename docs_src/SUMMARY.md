@@ -7,6 +7,7 @@
 * [2. Start Your Portfolio](3-start-your-portfolio.md)  
 * [3. Final Project](4-final-project.md)  
 * [Your Live Portfolios](https://github.com/elewa-academy/April-Precourse/wiki/)
+* [Precourse Repository](https://github.com/elewa-academy/April-Precourse)
 
 
 ___
