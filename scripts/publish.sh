@@ -1,6 +1,6 @@
 # add, commit recent changes
 git add .
-git commit -m 'building for publish'
+git commit -m 'building'
 git checkout master
 # pull other changes
 git pull elewa master
@@ -20,6 +20,7 @@ git add .
 git commit -m 'publishing'
 # publish changes
 git push elewa master
+
 
 # to execute this file run this command in terminal:
 # chmod a+x ./publish.sh

@@ -4,7 +4,7 @@ In order to post your portfolio to the class wiki, you will need to learn two th
 * [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet): Markdown is a very simple programming language that makes things look pretty. This precourse was written in Markdown. Unless you really want to make your entry pretty, all you'll need to learn is hyper links and bullet points.
 * Editing GitHub wikis:  Here is a [video](https://www.youtube.com/watch?v=L-ViPwseACM), and an [article](https://help.github.com/articles/editing-wiki-pages-via-the-online-interface/).  Both are good, use the one that helps you most.
 
-Now that you've finished your portfolio, and learned how to edit the Github wiki, go on and introduce yourself! You can find the wiki [right here](https://github.com/elewa-academy/April-Precourse/wiki).
+Now that you've finished your portfolio, and learned how to edit the Github wiki, go on and introduce yourself! You can find the wiki [right here](https://github.com/elewa-academy/April-2018/wiki/Cohort-Portfolios).
 
 
 ___
