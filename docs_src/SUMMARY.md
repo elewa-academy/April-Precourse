@@ -6,7 +6,7 @@
 * [1. JavaScript FUNdamentals](2-javascript-fundamentals.md)  
 * [2. Start Your Portfolio](3-start-your-portfolio.md)  
 * [3. Final Project](4-final-project.md)  
-* [Your Live Portfolios](https://github.com/elewa-academy/April-Precourse/wiki/)
+* [Your Live Portfolios](git@github.com:elewa-academy/April-2018.git)
 * [Precourse Repository](https://github.com/elewa-academy/April-Precourse)
 
 

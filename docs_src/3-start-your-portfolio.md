@@ -6,7 +6,7 @@ To set out on the right foot, we expect each of you to come in with the beginnin
 
 Your portfolio doesn't need to be anything fancy, it can be as simple as this [demo Elewa-Student portfolio](https://elewa-student.github.io).  What's important is that you build an understanding of Web-Development basics.  
 
-Your portfolios are also going to be your first introductions to each other. Keep an eye on this [precoure's Wiki](https://github.com/elewa-academy/April-Precourse/wiki/) to see what your classmates are up to!
+Your portfolios are also going to be your first introductions to each other. Keep an eye on this [precoure's Wiki](git@github.com:elewa-academy/April-2018.git) to see what your classmates are up to!
 
 
 Below are some resources and recommended steps for building your portfolio:
