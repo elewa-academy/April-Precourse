@@ -5,9 +5,15 @@ Congratulations on finishing the Basic Front End Projects in FreeCodeCamp!  The 
 
 Here are some resources you might find helpful for learning to use Visual Studio Code:
 * [VSC video series](https://www.youtube.com/watch?v=DmbvejtiyNo)
+
+Chrome: 
 * [Opening HTML in Chrome](https://www.youtube.com/watch?v=iyFKT_uUkik)
 * [Intro to Chrome dev-tools](https://www.html5rocks.com/en/tutorials/developertools/part1/)
-* Feel free to email us your favorite resources!
+
+Terminal:
+* [Rithmschool](https://www.rithmschool.com/courses/terminal)
+
+Feel free to email us your favorite resources!
 
 Now that you know to run HTML/CSS in the browser, you're one step away from building your portfolio.  Move on to the [git lesson](./2-git-and-hub.md), right now!
 
