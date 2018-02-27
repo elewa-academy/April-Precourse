@@ -14,6 +14,8 @@ Don't forget to add these projects to your portfolio!  For each project you fini
 3. Make a live demo on the "gh-pages" branch.
 4. Include a new demo box on your main portfolio page linking to it.
 
+(The [Elewa Student portfolio](https://elewa-student.github.io) has all of these projects in a single project box.  Don't worry about that yet, we'll do that together on our first day of class.)
+
 ___
 
 ### Resources
