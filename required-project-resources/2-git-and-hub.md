@@ -50,7 +50,7 @@ ___
 
 ## How it all fits
 
-![](https://github.com/jankeLearning/diagrams/blob/master/git-hub/where-it-fits.png)
+![](https://github.com/elewa-academy/diagrams/blob/master/git-hub/where-it-fits.png)
 
 Git is like a really **epic save button** for your files and directories - officially Git is called a version control system.
 
