@@ -24,6 +24,7 @@ JS Resources:
 * [FreeCodeCamp's video series](https://medium.freecodecamp.org/my-giant-javascript-basics-course-is-now-live-on-youtube-and-its-100-free-9020a21bbc27).  Youtube videos that align with their JS curriculum. 
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going). General reference for JavaScript
 * [Javascript.info](https://javascript.info). General Reference for JavaScript, DOM
+* [Guide to W3 Schools](https://www.youtube.com/watch?v=rNJBK5UGQ1A))
 
 JS Tutorials:
 * [Codeacademy](https://www.codecademy.com/en/tracks/javascript). More guidance and approachable exercises.
