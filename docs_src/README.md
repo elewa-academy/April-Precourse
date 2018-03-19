@@ -3,7 +3,7 @@
 
 _It's very important that you complete the required project in this precourse._
 
-You and your classmates' will thank you for it.  Showing up unprepared will not only slow down your learning at Elewa, but will impact your classmates experience as well.  Not coming prepared means you will take more of the mentors' time and group class time reviewing material that you should have learned before coming in.  This will have a ripple effect through your entire 10 weeks as you will always be a few steps behind your classmates and will have difficulty completing your portfolio. The pressure is on!
+You and your classmates will thank you for it.  Showing up unprepared will not only slow down your learning at Elewa, but will impact your classmates' experience as well.  Not coming prepared means you will take more of the mentors' time and group class time reviewing material that you should have learned before coming in.  This will have a ripple effect through your entire 10 weeks as you will always be a few steps behind your classmates and will have difficulty completing your portfolio. The pressure is on!
 
 But it's not that bad to get ready, slow and steady wins the race!  Start today and code every day, even just a bit. [Here's a great article](http://ejohn.org/blog/write-code-every-day/) about why and how to write code every day.  It's written by John Resig himself, the inventor of jQuery.  This [website](https://codehalf.com) is also a great tool for keeping yourself on track.  
 
